@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "A7VHUXj89Ubp0oUyw7XiBEjIRpEFH5JXbyoBBGVk2dA=",
+  "Source": "App",
+  "BasePath": "_content/App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "App\\wwwroot",
+      "Source": "App",
+      "ContentRoot": "D:\\ReactLearning\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
